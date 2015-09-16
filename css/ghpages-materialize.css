@@ -6166,6 +6166,7 @@ a.waves-effect .waves-ripple {
     margin: 16px 0; }
 
 .chip {
+  margin: 2px 0;
   display: inline-block;
   height: 32px;
   font-size: 13px;
